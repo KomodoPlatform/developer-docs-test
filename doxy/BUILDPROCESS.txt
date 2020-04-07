@@ -1,6 +1,6 @@
 Clone repo to local dir
 
-`git submodule --init --recursive`
+`git submodule update --init --recursive`
 
 Build the Antara Gaming SDK in submodules dir
 
