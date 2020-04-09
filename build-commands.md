@@ -70,10 +70,8 @@ make Doxygen
 ## Build Doxybook2
 
 ```bash
-cd ../..
-cd doxybook2/
-mkdir build
-cd build
+cd ../../doxybook2/
+mkdir build && cd build
 cmake -G "Unix Makefiles" \
      -DDOXYBOOK_TESTS=OFF \
      -DDOXYBOOK_STATIC_STDLIB=OFF \
@@ -88,7 +86,7 @@ cmake --build .
 ## Delete previous output if any
 
 ```
-cd ../../../
+cd ../../../../
 rm -rf docs/basic-docs/antara-gaming-sdk/*
 rm -rf doxy/outputDir/*
 rm -rf doxy/build/*
@@ -105,7 +103,9 @@ cd doxy
 
 ```bash
 cmake -B ./build .
-cd build/my_src
+cd build
+make
+cd my_src
 ./komodo-doxybook2
 ```
 
