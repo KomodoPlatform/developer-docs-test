@@ -85,11 +85,19 @@ cmake --build .
 
 ## Delete previous output if any
 
-```
+```bash
 cd ../../../../
 rm -rf docs/basic-docs/antara-gaming-sdk/*
 rm -rf doxy/outputDir/*
 rm -rf doxy/build/*
+```
+
+## Make sure output/build directories exist
+
+```bash
+mkdir -p docs/basic-docs/antara-gaming-sdk/
+mkdir -p doxy/outputDir/
+mkdir -p doxy/build/
 ```
 
 ## Create md files from the xml output of doxygen using Doxybook2
@@ -99,7 +107,7 @@ cd doxy
 ./submodules/doxybook2/build/src/DoxybookCli/doxybook2 --input submodules/antara-gaming-sdk/build/docs/doxygen/xml/ --output outputDir/ --templates ./templates/
 ```
 
-## Sidd's cmake
+## Compact the md output, place it in the appropriate dir and populate the sidebar structure
 
 ```bash
 cmake -B ./build .
