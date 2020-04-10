@@ -1,10 +1,10 @@
 
 
-## /home/siddhartha/Documents/01-Studio/01-Commercial-Public/01-Commercial-Clients/01-Komodo/2020-03-14-developer-docs-test/doxy/submodules/antara-gaming-sdk/modules/sdl
+## /home/gcharang/developer-docs-test/doxy/submodules/antara-gaming-sdk/modules/sdl
 
 #### Full Title:
 ```
-/home/siddhartha/Documents/01-Studio/01-Commercial-Public/01-Commercial-Clients/01-Komodo/2020-03-14-developer-docs-test/doxy/submodules/antara-gaming-sdk/modules/sdl
+/home/gcharang/developer-docs-test/doxy/submodules/antara-gaming-sdk/modules/sdl
 ```
 
 
@@ -15,7 +15,7 @@
 
 | Name           |
 | -------------- |
-| **[/home/siddhartha/Documents/01-Studio/01-Commercial-Public/01-Commercial-Clients/01-Komodo/2020-03-14-developer-docs-test/doxy/submodules/antara-gaming-sdk/modules/sdl/antara](Files/dir_3bd5bcca2609e7c01e22054992f696bf.md#dir-/home/siddhartha/documents/01-studio/01-commercial-public/01-commercial-clients/01-komodo/2020-03-14-developer-docs-test/doxy/submodules/antara-gaming-sdk/modules/sdl/antara)**  |
+| **[/home/gcharang/developer-docs-test/doxy/submodules/antara-gaming-sdk/modules/sdl/antara](Files/dir_3bd5bcca2609e7c01e22054992f696bf.md#dir-/home/gcharang/developer-docs-test/doxy/submodules/antara-gaming-sdk/modules/sdl/antara)**  |
 
 
 

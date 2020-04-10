@@ -1,10 +1,10 @@
 
 
-## /home/siddhartha/Documents/01-Studio/01-Commercial-Public/01-Commercial-Clients/01-Komodo/2020-03-14-developer-docs-test/doxy/submodules/antara-gaming-sdk/modules/animation2d/antara/gaming/animation2d/antara.animation2d.ranged_anim.hpp
+## /home/gcharang/developer-docs-test/doxy/submodules/antara-gaming-sdk/modules/animation2d/antara/gaming/animation2d/antara.animation2d.ranged_anim.hpp
 
 #### Full Title:
 ```
-/home/siddhartha/Documents/01-Studio/01-Commercial-Public/01-Commercial-Clients/01-Komodo/2020-03-14-developer-docs-test/doxy/submodules/antara-gaming-sdk/modules/animation2d/antara/gaming/animation2d/antara.animation2d.ranged_anim.hpp
+/home/gcharang/developer-docs-test/doxy/submodules/antara-gaming-sdk/modules/animation2d/antara/gaming/animation2d/antara.animation2d.ranged_anim.hpp
 ```
 
 
