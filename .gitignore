@@ -3,6 +3,8 @@
 /dist
 /docs/.vuepress/dist
 /doxy/build-book
+/doxy/build
+/doxy/outputDir
 
 # local env files
 .env
